@@ -39,7 +39,7 @@ It helps in understanding sales trends, profit distribution, and customer behavi
 ![Dashboard](dashboard.png)
 
 ### 🔹 Sales Forecast
-![Forecast](forecast.png)
+![Forecast](Forecast.png)
 
 ---
 
